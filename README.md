@@ -6,7 +6,7 @@
 
 Gaston is an app for organizing personal finance.
 
-You can read a nice blog post[here](https://ramomar.medium.com/gaston-55052ab661af) (spanish).
+You can read a nice blog post [here](https://ramomar.medium.com/gaston-55052ab661af) (spanish).
 
 
 ## Features
